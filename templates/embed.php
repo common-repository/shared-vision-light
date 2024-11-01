@@ -1,0 +1,1 @@
+<div data-id="<?php echo esc_attr( $list_hash ); ?>" class="sharedVisionList"></div>
